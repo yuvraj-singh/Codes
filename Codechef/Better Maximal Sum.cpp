@@ -1,4 +1,4 @@
-// https://www.codechef.com/SNCKQL16/problems/MMSUM
+//  https://www.codechef.com/SNCKQL16/problems/MMSUM
 #include<iostream>
 #include<cmath>
 #include<algorithm>
